@@ -75,7 +75,7 @@ Model eğitimi sırasında aşağıdaki metrikler hesaplanmıştır:
 - **Root Mean Squared Error (RMSE):** 349.43634513800134
 - **R-squared:** -0.11801155941127073
 
-## Katkı Sağlayanlar 
+## Katkı Sağlayanlar (Contributors)
 
 Bu proje aşağıdaki kişiler tarafından gerçekleştirilmiştir:
 
