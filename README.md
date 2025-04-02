@@ -14,7 +14,7 @@ Bu API, verilen ürün ID'sine ve çeşitli ürün özelliklerine (fiyat, stok m
 - SQLAlchemy
 - Pandas
 - NumPy
-- scikit-learn
+- Scikit-learn
 - PostgreSQL
 
 
