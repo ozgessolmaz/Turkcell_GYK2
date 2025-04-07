@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "477b2d38-3525-480f-bba1-ce505b95cc8d",
+		"name": "Product Sales Prediction API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39885086"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"product_id\": 1,\n  \"unit_price\": 20.0,\n  \"units_in_stock\": 100,\n  \"reorder_level\": 5\n}\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8000/predict/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"predict",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
