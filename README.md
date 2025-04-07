@@ -78,6 +78,7 @@ Model eğitimi sırasında aşağıdaki metrikler hesaplanmıştır:
 
 Bu proje aşağıdaki kişiler tarafından gerçekleştirilmiştir:
 
+- **Özge Solmaz** - (solmazozge02@gmail.com)
 - **Nisasu Bozkurt** - (nisasubozkurt@gmail.com)
 - **Zeynep Vural** - (zeynebvural450@gmail.com)
 - **Gülizar Tuncer** - (Rgulizartuncer@gmail.com)
